@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm a Design and Product development student in love with web technologies
 
 <!--
 **yamanadamnor/yamanadamnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
